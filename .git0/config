@@ -1,0 +1,27 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/jihedmrd/confliedis.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[lfs]
+	repositoryformatversion = 0
+[remote "Jihed-Mrad"]
+	url = https://github.com/jihedmrd/confliedis.git
+	fetch = +refs/heads/*:refs/remotes/Jihed-Mrad/*
+[remote "jihed-mrad"]
+	url = https://github.com/jihedmrd/confliedis
+	fetch = +refs/heads/*:refs/remotes/jihed-mrad/*
+[remote "jihed"]
+	url = https://github.com/jihedmrd/confliedis/tree/main
+	fetch = +refs/heads/*:refs/remotes/jihed/*
+[remote "jihedmrd"]
+	url = https://github.com/jihedmrd/confliedis.git
+	fetch = +refs/heads/*:refs/remotes/jihedmrd/*
+[remote "Jihed-mrad"]
+	url = https://github.com/jihedmrd/confliedis.git
+	fetch = +refs/heads/*:refs/remotes/Jihed-mrad/*
